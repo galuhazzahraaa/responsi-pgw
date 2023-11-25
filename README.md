@@ -11,11 +11,11 @@ Komponen Produk :
 - Foto pendukung dari google chrome
 
 Tangkapan layar komponen produk:
-- Home
+1. Home
 <img src ="assets/fotogaluh/1.png" width="400">
-- Locations
+2. Locations
 <img src ="assets/fotogaluh/2.png" width="400">
-- Recommendations
+3. Recommendations
 <img src ="assets/fotogaluh/3.png" width="400">
-- Contac Person
+4. Contact Person
 <img src ="assets/fotogaluh/4.png" width="400">
