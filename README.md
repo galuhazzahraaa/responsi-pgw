@@ -8,3 +8,4 @@ Komponen Produk : - XAMPP, GeoServer : untuk mengkoneksikan data dengan data sha
 - Gitbash & Command Prompt : media untuk mengupload folder responsi ke dalam github
 - Library (leaflet, fontawesome, bootstrap)
 - Foto pendukung dari google chrome
+
