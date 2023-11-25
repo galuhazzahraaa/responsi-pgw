@@ -15,6 +15,7 @@ Komponen Produk :
 Tangkapan layar komponen produk:
 1. Home
 <img src ="assets/fotogaluh/1.png" width="400">
+<img src ="assets/fotogaluh/1_2.png" width="400">
 2. Locations
 <img src ="assets/fotogaluh/2.png" width="400">
 <img src ="assets/fotogaluh/2_2.png" width="400">
