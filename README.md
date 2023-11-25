@@ -11,3 +11,7 @@ Komponen Produk :
 - Foto pendukung dari google chrome
 
 Tangkapan layar komponen produk:
+<img src ="assets/fotogaluh/1.png" width="200">
+<img src ="assets/fotogaluh/2.png" width="200">
+<img src ="assets/fotogaluh/3.png" width="200">
+<img src ="assets/fotogaluh/4.png" width="200">
