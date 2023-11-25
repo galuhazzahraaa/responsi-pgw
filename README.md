@@ -15,6 +15,7 @@ Tangkapan layar komponen produk:
 <img src ="assets/fotogaluh/1.png" width="400">
 2. Locations
 <img src ="assets/fotogaluh/2.png" width="400">
+<img src ="assets/fotogaluh/2_2.png" width="400">
 3. Recommendations
 <img src ="assets/fotogaluh/3.png" width="400">
 4. Contact Person
