@@ -10,3 +10,7 @@ Komponen Produk :
 - Library (leaflet, fontawesome, bootstrap)
 - Foto pendukung dari google chrome
 
+Tangkapan layar komponen produk:
+- home![image](https://github.com/galuhazzahraaa/responsi-pgw/assets/135418988/e8573a31-e4e8-4132-a585-d1227be0e408)
+
+
